@@ -2,7 +2,7 @@
   
 # 👨‍💻 Mert Yılmaz
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=C%23+Developer;Windows+Forms+%7C+.NET;HTML+%2F+CSS+Web+Geli%C5%9Ftirici;%C4%B0stanbul%2C+T%C3%BCrkiye)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFEB3B&center=true&vCenter=true&width=435&lines=C%23+Developer;Windows+Forms+%7C+.NET;HTML+%2F+CSS+Web+Geli%C5%9Ftirici;%C4%B0stanbul%2C+T%C3%BCrkiye)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 - 💻 C# ve .NET ekosisteminde projeler geliştiriyorum
 - 🌐 HTML/CSS ile web arayüzleri tasarlıyorum
 - 🎯 Hedefim: Full-stack developer olmak
-- 📍  Türkiye,İstanbul,Ümraniye
+- 📍 İstanbul, Türkiye
 
 ---
 
@@ -45,23 +45,12 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-
-![Nexomertis's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexomertis&show_icons=true&theme=tokyonight&hide_border=true&locale=tr)
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nexomertis&color=6C63FF&style=flat-square&label=Profil+Görüntüleme)
 
 **📫 Bana ulaş:** [ymert2735@gmail.com](mailto:ymert2735@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexomertis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SENIN-LINKEDIN-KULLANICI-ADIN)
 
 </div>
