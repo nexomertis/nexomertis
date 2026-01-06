@@ -14,7 +14,7 @@
 - 💻 C# ve .NET ekosisteminde projeler geliştiriyorum
 - 🌐 HTML/CSS ile web arayüzleri tasarlıyorum
 - 🎯 Hedefim: Full-stack developer olmak
-- 📍 Türkiye,İstanbul
+- 📍 İstanbul, Türkiye
 
 ---
 
@@ -38,8 +38,6 @@
 <div align="center">
 
 [![Kutuphaneyonetim](https://img.shields.io/badge/📚_Kütüphane_Yönetim-512BD4?style=for-the-badge)](https://github.com/nexomertis/Kutuphaneyonetim)
-[![Araç Kiralama](https://img.shields.io/badge/🚗_Araç_Kiralama-0078D6?style=for-the-badge)](https://github.com/nexomertis/Abstract-Arac-kiralama-)
-[![Satranç](https://img.shields.io/badge/♟️_Satranç_Oyunu-239120?style=for-the-badge)](https://github.com/nexomertis/Satran-Oyunu-)
 
 </div>
 
@@ -51,6 +49,6 @@
 
 **📫 Bana ulaş:** [ymert2735@gmail.com](mailto:ymert2735@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SENIN-LINKEDIN-KULLANICI-ADIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mert-y%C4%B1lmaz-23bb8b352/)
 
 </div>
