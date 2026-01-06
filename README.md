@@ -14,7 +14,7 @@
 - 💻 C# ve .NET ekosisteminde projeler geliştiriyorum
 - 🌐 HTML/CSS ile web arayüzleri tasarlıyorum
 - 🎯 Hedefim: Full-stack developer olmak
-- 📍 İstanbul, Türkiye
+- 📍 Türkiye,İstanbul
 
 ---
 
