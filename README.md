@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   
 # 👨‍💻 Mert Yılmaz
 
@@ -14,7 +14,7 @@
 - 💻 C# ve .NET ekosisteminde projeler geliştiriyorum
 - 🌐 HTML/CSS ile web arayüzleri tasarlıyorum
 - 🎯 Hedefim: Full-stack developer olmak
-- 📍 İstanbul, Türkiye
+- 📍  Türkiye,İstanbul,Ümraniye
 
 ---
 
@@ -33,36 +33,35 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nexomertis&show_icons=true&theme=tokyonight&hide_border=true&locale=tr)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nexomertis&theme=tokyonight&hide_border=true&locale=tr)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexomertis&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🏆 Öne Çıkan Projelerim
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nexomertis&repo=Kutuphaneyonetim&theme=tokyonight&hide_border=true)](https://github.com/nexomertis/Kutuphaneyonetim)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=nexomertis&repo=Abstract-Arac-kiralama-&theme=tokyonight&hide_border=true)](https://github.com/nexomertis/Abstract-Arac-kiralama-)
+[![Kutuphaneyonetim](https://img.shields.io/badge/📚_Kütüphane_Yönetim-512BD4?style=for-the-badge)](https://github.com/nexomertis/Kutuphaneyonetim)
+[![Araç Kiralama](https://img.shields.io/badge/🚗_Araç_Kiralama-0078D6?style=for-the-badge)](https://github.com/nexomertis/Abstract-Arac-kiralama-)
+[![Satranç](https://img.shields.io/badge/♟️_Satranç_Oyunu-239120?style=for-the-badge)](https://github.com/nexomertis/Satran-Oyunu-)
+
+</div>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+
+![Nexomertis's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexomertis&show_icons=true&theme=tokyonight&hide_border=true&locale=tr)
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nexomertis&color=6C63FF&style=flat-square&label=Profil+Görüntüleme)
 
 **📫 Bana ulaş:** [ymert2735@gmail.com](mailto:ymert2735@gmail.com)
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nexomertis)
 
+</div>
